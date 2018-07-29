@@ -159,6 +159,6 @@ July 1995 to April 1997
 - .Created operations procedures for data handling.
 
 ### Education
-[Virginia Tech](https://vt.edu/) **-** Blacksburg VA                _May 1995_
+[Virginia Tech](https://vt.edu/) **-** Blacksburg VA **-** _May 1995_ <br/>
 B.S. Psychology with minors in Computer Science and Music
 
