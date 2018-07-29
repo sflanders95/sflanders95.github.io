@@ -10,8 +10,8 @@ LinkedIn: [https://www.linkedin.com/in/steven-flanders/](https://www.linkedin.co
 
 ### Skills
 __Operating Systems__<br/>
-Windows (95,7,8,10, svr 0x) | DOS
-Unix: IRIX | HP-UX | DEC | SunOS | IRIX | RedHat | Ubuntu
+Windows (95,7,8,10, svr 0x) | DOS<br/>
+Unix: IRIX | HP-UX | DEC | SunOS | IRIX | RedHat | Ubuntu<br/>
 MacOS
 
 __Languages__<br/>
