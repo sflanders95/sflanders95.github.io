@@ -9,15 +9,15 @@ I have over 20 years of software development experience. My experience includes 
 LinkedIn: [https://www.linkedin.com/in/steven-flanders/](https://www.linkedin.com/in/steven-flanders/)
 
 ### Skills
-#### Operating Systems
+__Operating Systems__
 Windows (95,7,8,10, svr 0x) | DOS
 Unix: IRIX | HP-UX | DEC | SunOS | IRIX | RedHat | Ubuntu
 MacOS
 
-####Languages
+__Languages__
 .NET (VB &amp; C#) | SQL (Oracle &amp; SQL Server) | ASP | Powershell | C | Perl | JAVA/J2EE | VB Script | Pascal (&amp; Delphi) | HTML/ JavaScript | sh / csh / bash | Oracle BI Publisher | APEX
 
-#### SCCS
+__SCCS__
 VSS | TFS | CVS | subversion | git
 
 
