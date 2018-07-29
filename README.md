@@ -5,20 +5,19 @@ Senior Software Engineer | Full Stack .Net Developer | Data Scientist
 
 ### Professional Summary
 
-I have over 20 years of software development experience. My experience includes working with state and local government agencies as well as private industry. I pride myself as a skilled problem solver with strong analytical abilities, excellent communication skills, and a strong foundation in Object Oriented Analysis and Design. e.g. &quot;Design Patterns&quot; by E. Gamma et. al.
-
+I have over 20 years of software development experience. My experience includes working with state and local government agencies as well as private industry. I pride myself as a skilled problem solver with strong analytical abilities, excellent communication skills, and a strong foundation in Object Oriented Analysis and Design. e.g. &quot;Design Patterns&quot; by E. Gamma et. al. <br/>
 LinkedIn: [https://www.linkedin.com/in/steven-flanders/](https://www.linkedin.com/in/steven-flanders/)
 
 ### Skills
-__Operating Systems__
+__Operating Systems__<br/>
 Windows (95,7,8,10, svr 0x) | DOS
 Unix: IRIX | HP-UX | DEC | SunOS | IRIX | RedHat | Ubuntu
 MacOS
 
-__Languages__
+__Languages__<br/>
 .NET (VB &amp; C#) | SQL (Oracle &amp; SQL Server) | ASP | Powershell | C | Perl | JAVA/J2EE | VB Script | Pascal (&amp; Delphi) | HTML/ JavaScript | sh / csh / bash | Oracle BI Publisher | APEX
 
-__SCCS__
+__SCCS__<br/>
 VSS | TFS | CVS | subversion | git
 
 
