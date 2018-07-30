@@ -1,6 +1,6 @@
 [Steven Flanders GitHub Readme.md (https://sflanders95.github.io/)](https://sflanders95.github.io/)
 ---
-# STEVEN FLANDERS
+# [STEVEN FLANDERS](mailto:sflanders95@gmail.com)
 Senior Software Engineer | Full Stack .Net Developer | Data Scientist
 
 ### Professional Summary
