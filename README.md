@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: resume.html
 title: Steven Flanders
 ---
 [Steven Flanders GitHub Readme.md (https://sflanders95.github.io/)](https://sflanders95.github.io/)
