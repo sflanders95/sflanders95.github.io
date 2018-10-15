@@ -1,7 +1,3 @@
----
-layout: resume
-title: Steven Flanders
----
 [Steven Flanders GitHub Readme.md (https://sflanders95.github.io/)](https://sflanders95.github.io/)
 ---
 # [STEVEN FLANDERS](mailto:sflanders95@gmail.com)
