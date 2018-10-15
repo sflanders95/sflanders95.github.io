@@ -14,3 +14,4 @@ future: true
 # include: [/docs]
 # include: /docs
 # include: docs
+exclude: ["index.html", "CNAME", "Rakefile", "MIT-LICENSE", "README.md", "TODO.taskpaper"]
