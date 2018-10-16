@@ -1,5 +1,3 @@
-[Steven Flanders GitHub Readme.md (https://sflanders95.github.io/)](https://sflanders95.github.io/)
----
 # [STEVEN FLANDERS](mailto:sflanders95@gmail.com)
 Senior Software Engineer | Full Stack .Net Developer | Data Scientist
 
@@ -7,6 +5,10 @@ Senior Software Engineer | Full Stack .Net Developer | Data Scientist
 
 I have over 20 years of software development experience. My experience includes working with state and local government agencies as well as private industry. I pride myself as a skilled problem solver with strong analytical abilities, excellent communication skills, and a strong foundation in Object Oriented Analysis and Design. e.g. &quot;Design Patterns&quot; by E. Gamma et. al. <br/>
 LinkedIn: [https://www.linkedin.com/in/steven-flanders/](https://www.linkedin.com/in/steven-flanders/)
+
+### Education
+[Virginia Tech](https://vt.edu/) **-** Blacksburg VA **-** _May 1995_ <br/>
+B.S. Psychology with minors in Computer Science and Music
 
 ### Skills
 __Operating Systems__<br/>
@@ -158,7 +160,4 @@ July 1995 to April 1997
 - .Wrote cgi scripts (csh, perl) and web pages for users to order desired data
 - .Created operations procedures for data handling.
 
-### Education
-[Virginia Tech](https://vt.edu/) **-** Blacksburg VA **-** _May 1995_ <br/>
-B.S. Psychology with minors in Computer Science and Music
 
