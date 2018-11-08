@@ -16,8 +16,8 @@ Windows (95,7,8,10, svr 0x) | DOS<br/>
 Unix: IRIX | HP-UX | DEC | SunOS | IRIX | RedHat | Ubuntu<br/>
 MacOS
 
-__Languages__<br/>
-.NET (VB &amp; C#) | SQL (Oracle &amp; SQL Server) | ASP | Powershell | C | Perl | JAVA/J2EE | VB Script | Pascal (&amp; Delphi) | HTML/ JavaScript | sh / csh / bash | Oracle BI Publisher | APEX | ETL / SSIS
+__Languages / Tools__<br/>
+.NET (VB &amp; C#) | SQL (PLSQL &amp; t-SQL) | ASP | Powershell | C | Perl | JAVA/J2EE | VB Script | Pascal (&amp; Delphi) | HTML/ JavaScript | sh / csh / bash | Oracle BI Publisher | SSRS (Reporting Services) | APEX | ETL / SSIS
 
 __SCCS__<br/>
 VSS | TFS | CVS | subversion | git
