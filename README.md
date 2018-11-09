@@ -1,4 +1,4 @@
-# [STEVEN FLANDERS](mailto:sflanders95@gmail.com)
+# [STEVEN FLANDERS](mailto:sflanders95&#64;gmail.com)
 Senior Software Engineer | Full Stack .Net Developer | Data Scientist
 
 ### Professional Summary
