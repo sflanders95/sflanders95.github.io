@@ -20,14 +20,14 @@ __Languages / Tools__<br/>
 .NET (VB &amp; C#) | SQL (PLSQL &amp; t-SQL) | ASP | Powershell | C | Perl | JAVA/J2EE | VB Script | Pascal (&amp; Delphi) | HTML/ JavaScript | sh / csh / bash | Oracle BI Publisher | SSRS (Reporting Services) | APEX | ETL / SSIS
 
 __SCCS__<br/>
-VSS | TFS | CVS | subversion | git
+VSS | TFS | CVS | clearcase | subversion | git
 
 
 ### Professional Experience
 
 **Freelance - Water Safety Patrol and other Websites**
         Jan 1/2015 – present
-- .Organized and set up/maintained a websites for the _Lake Monticello Water Safety Patrol_ and the _Flanders&#39; Family History_. For both sites I administer the apache webserver and directory security. (.htaccess and .htpasswd) I also perform the administration between goDaddy and the hosting site (Arvixe.com).
+- .Organized and set up/maintained websites for the _Lake Monticello Water Safety Patrol_ and the _Flanders&#39; Family History_. For both sites I administer the apache webserver and directory security. (.htaccess and .htpasswd) I also perform the administration between goDaddy and the hosting site (Arvixe.com).
 - .I&#39;ve also set up my Mac with four different VM&#39;s via parallels: MacOS, Windows 8 &amp; 10, Ubuntu, and Fedora. My .Net development is on the Win v.10 using Visual Studio and tfs at visualstudio.com.
 
 EnterBridge / Advanous
