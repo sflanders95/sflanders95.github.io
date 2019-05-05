@@ -12,7 +12,7 @@ B.S. Psychology with minors in Computer Science and Music
 
 ### Skills
 __Operating Systems__<br/>
-- Windows (95,7,8,10,\* svr) | DOS/Powershell
+- Windows (95,7,8,10, svr) | DOS/Powershell
 - Unix: IRIX | HP-UX | DEC | SunOS | IRIX | RedHat | Ubuntu | debian (π) | MacOS
 - MacOS
 
