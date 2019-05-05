@@ -24,7 +24,7 @@ VSS | TFS | git | CVS | clearcase | subversion
 
 ### Professional Experience
 
-#### [Re:discovery Software Inc.][REDISCOV]
+#### Re:discovery Software Inc. ([www.rediscoverysoftware.com/][REDISCOV])
 
 3040 Berkmar Dr, Charlottesville, VA 22901 - Feb 2019 - Present
 
