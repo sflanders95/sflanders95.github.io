@@ -13,24 +13,30 @@ B.S. Psychology with minors in Computer Science and Music
 ### Skills
 __Operating Systems__<br/>
 Windows (95,7,8,10, svr 0x) | DOS<br/>
-Unix: IRIX | HP-UX | DEC | SunOS | IRIX | RedHat | Ubuntu<br/>
+Unix: IRIX | HP-UX | DEC | SunOS | IRIX | RedHat | Ubuntu | debian (π)<br/>
 MacOS
 
 __Languages / Tools__<br/>
 .NET (VB &amp; C#) | SQL (PLSQL &amp; t-SQL) | ASP | Powershell | C | Perl | JAVA/J2EE | VB Script | Pascal (&amp; Delphi) | HTML/ JavaScript | sh / csh / bash | Oracle BI Publisher | SSRS (Reporting Services) | APEX | ETL / SSIS
 
 __SCCS__<br/>
-VSS | TFS | CVS | clearcase | subversion | git
-
+VSS | TFS | git | CVS | clearcase | subversion
 
 ### Professional Experience
 
-**Freelance - Water Safety Patrol and other Websites**
+#### [Re:discovery Software Inc.][REDISCOV]
+        Feb 2019 - Present
+- Software engineer for product CI/CD upgrades.
+- USGov (DOI) compliance
+- [TeamCity][TEAMCITY] integration
+- [DevExpress][DEVEX] integration
+
+#### Freelance - Water Safety Patrol and *other* Websites
         Jan 1/2015 – present
 - .Organized and set up/maintained websites for the _Lake Monticello Water Safety Patrol_ and the _Flanders&#39; Family History_. For both sites I administer the apache webserver and directory security. (.htaccess and .htpasswd) I also perform the administration between goDaddy and the hosting site (Arvixe.com).
 - .I&#39;ve also set up my Mac with four different VM&#39;s via parallels: MacOS, Windows 8 &amp; 10, Ubuntu, and Fedora. My .Net development is on the Win v.10 using Visual Studio and tfs at visualstudio.com.
 
-EnterBridge / Advanous
+#### EnterBridge / Advanous
 200 Westgate Parkway, Suite 104 ( [www.advanous.com](http://www.advanous.com/))
 June 1 / 2015 to August 2015
 
@@ -39,7 +45,7 @@ Senior Software Engineer
 - .Worked on Canvas applications ( [www.goCanvas.com](http://www.goCanvas.com/)).  Pulling data from quickbooks and Canvas (using Web Services XML) and placing the data into a SQL server to produce reports. Visual Studio was the IDE (C# .net) and TFS was the source code repository. Parsed XML datastreams.
 - .Worked on an Excel add-in for access to the goCanvas application.  Performed daily builds for the team out of GitHub and stored the distributable files for the clients to access.
 
-[**Tactical Engineering and Analysis**](http://www.tac-eng.com/)
+#### [**Tactical Engineering and Analysis**](http://www.tac-eng.com/)
 Fredericksburg VA
 April 2013 to April 2014
 
@@ -48,7 +54,7 @@ Software Engineer
 - .Worked on SSIS programs to incorporate data from disparate systems to integrate with the Navy&#39;s databases.  Data was retrieved via webservice to an Oracle database where the data was transformed. The SSIS program further transformed the data and moved it into a SQL Server database where the MADSS program could access it.
 - .Worked on C# projects to merge incoming databases with the Navy&#39;s database to support the MADSS system.  For example, retrieving NOAA weather data to incorporate into our system.  TFS was the source code repository.
 
-[**LeClairRyan**](https://www.leclairryan.com/)
+#### [**LeClairRyan**](https://www.leclairryan.com/)
 Richmond, VA
 April 2012 to April 2013
 
@@ -60,7 +66,7 @@ Data Steward
 - .Mentored a junior developer, providing him with advice and expertise on general C# programming.
 - .TFS was the source code repository and MS SharePoint was used to store shared documents.
 
-[**Stefanini / CXI / IndigeTech**](https://stefanini.com/)
+#### [**Stefanini / CXI / IndigeTech**](https://stefanini.com/)
 Richmond, VA
 November 2004 to April 2012
 Senior Developer
@@ -122,7 +128,7 @@ August 2001 to November 2001
 Web Developer
 - .Created Web application for the Santa Clara County website using jsp as the primary language.  Developed on RedHat Linux with Sun&#39;s JDK running Jakarta/Tomcat.  Collaborated with County representatives and a graphic artist to create and implement the site. Maintained the cvs repository for the project.
 
-[**Fidelity Investments**](https://www.fidelity.com/)
+#### [Fidelity Investments](https://www.fidelity.com/)
 Merrimack, NH
 May 1999 to November 1999
 
@@ -131,7 +137,7 @@ Web Developer
 - .Created install scripts to build web kits to be deployed and installed. Oracle was used as both the main and profile database.  ADO was used to connect to the DB.  Java and ASP was used to create the web pages.
 - .Wrote a debugging app that parsed the XML logs to make testing easier for the developers.
 
-**SCG Partners, Inc.**
+#### SCG Partners, Inc.
 Nashua, NH
 April 1997 to May 1999
 
@@ -147,7 +153,7 @@ Web Developer for Empire Vision Point of Service Demo
 April 1997 to November 1998
 - .Created the user interface for a pricing Demo in Delphi 3.0. The demo application used paradox DB tables to accurately price an eye care invoice.  The demo later led to a contract.
 
-**Mission Research Corp.**
+#### Mission Research Corp.
 Nashua, NH
 July 1995 to April 1997
 
@@ -161,3 +167,6 @@ July 1995 to April 1997
 - .Created operations procedures for data handling.
 
 
+[REDISCOV]: https://rediscoverysoftware.com/
+[TEAMCITY]: https://www.jetbrains.com/teamcity/
+[DEVEX]: https://www.devexpress.com/
