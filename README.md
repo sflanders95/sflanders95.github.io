@@ -25,7 +25,8 @@ VSS | TFS | git | CVS | clearcase | subversion
 ### Professional Experience
 
 #### [Re:discovery Software Inc.][REDISCOV]
-Feb 2019 - Present
+
+3040 Berkmar Dr, Charlottesville, VA 22901 - Feb 2019 - Present
 
 - Software engineer for product CI/CD upgrades.
 - USGov (DOI) compliance
@@ -33,7 +34,7 @@ Feb 2019 - Present
 - [DevExpress][DEVEX] integration
 
 #### Freelance - Water Safety Patrol and *other* Websites
-Jan 1/2015 – present
+Jan 2015 – present
 
 - .Organized and set up/maintained websites for the _Lake Monticello Water Safety Patrol_ and the _Flanders&#39; Family History_. For both sites I administer the apache webserver and directory security. (.htaccess and .htpasswd) I also perform the administration between goDaddy and the hosting site (Arvixe.com).
 - .I&#39;ve also set up my Mac with four different VM&#39;s via parallels: MacOS, Windows 8 &amp; 10, Ubuntu, and Fedora. My .Net development is on the Win v.10 using Visual Studio and tfs at visualstudio.com.
