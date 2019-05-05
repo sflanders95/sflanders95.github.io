@@ -40,7 +40,7 @@ Jan 2015 – present
 - .I&#39;ve also set up my Mac with four different VM&#39;s via parallels: MacOS, Windows 8 &amp; 10, Ubuntu, and Fedora. My .Net development is on the Win v.10 using Visual Studio and tfs at visualstudio.com.
 
 #### EnterBridge / Advanous
-200 Westgate Parkway, Suite 104 ( [www.advanous.com](http://www.advanous.com/))
+200 Westgate Parkway, Suite 104 ([www.advanous.com](http://www.advanous.com/))
 June 1 / 2015 to August 2015
 
 Senior Software Engineer
