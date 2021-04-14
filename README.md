@@ -22,6 +22,9 @@ __Languages / Tools__<br/>
 __SCCS__<br/>
 VSS | TFS | git | CVS | clearcase | subversion
 
+[Github Link: https://github.com/sflanders95/](https://github.com/sflanders95/)
+
+
 ### Professional Experience
 
 #### Re:discovery Software Inc. ([www.rediscoverysoftware.com][REDISCOV])
