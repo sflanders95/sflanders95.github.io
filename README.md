@@ -29,7 +29,7 @@ VSS | TFS | git | CVS | clearcase | subversion
 
 #### Re:discovery Software Inc. ([www.rediscoverysoftware.com][REDISCOV])
 
-3040 Berkmar Dr, Charlottesville, VA 22901 - Feb 2019 - Present
+3040 Berkmar Dr, Charlottesville, VA 22901 - Feb 2019 - May 2021
 
 - Software engineer for product CI/CD upgrades.
 - USGov (DOI) compliance
