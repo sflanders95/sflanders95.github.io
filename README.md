@@ -27,12 +27,6 @@ VSS | TFS | git | CVS | clearcase | subversion
 
 ### Professional Experience
 
-#### Standard Calibrations Inc. 
-
-501 Resource Row, Chesapeake, VA 23320 - June 2021 - Present
-
-- Software Engineer.
-
 #### Re:discovery Software Inc. ([www.rediscoverysoftware.com][REDISCOV])
 
 3040 Berkmar Dr, Charlottesville, VA 22901 - Feb 2019 - May 2021
